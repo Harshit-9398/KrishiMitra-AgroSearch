@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561328299926",
+    "firebase_url": "https://myfirebaseauth-5d0ea.firebaseio.com",
+    "project_id": "myfirebaseauth-5d0ea",
+    "storage_bucket": "myfirebaseauth-5d0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561328299926:android:b82f3e65ce66ea07",
+        "android_client_info": {
+          "package_name": "ap.efficient_farming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561328299926-3vgmr0pkgtrmnddq4hrvs82f62b7ck0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ap.efficient_farming",
+            "certificate_hash": "ad9a8b911e190aea607f6b32601d484bfefe5527"
+          }
+        },
+        {
+          "client_id": "561328299926-400smebh2numikisfhot4rurcsromha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-2jfjuzh7bV9Xp7YHwE-BKGa8Asu8aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561328299926-400smebh2numikisfhot4rurcsromha7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
